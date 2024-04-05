@@ -1,0 +1,17 @@
+.navbar-brand {
+  color: red;
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.nav-link {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  transition: all 0.5s ease;
+}
+
+.nav-link:hover {
+  color: red;
+}
